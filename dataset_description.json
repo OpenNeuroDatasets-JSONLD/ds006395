@@ -34,5 +34,9 @@
             "Version": "2.0",
             "Description": "Used to generate the experimental design and timing of the finger-tapping task."
         }
+    ],
+    "ReferencesAndLinks": [
+        "doi: 10.1016/j.parkreldis.2025.108096.",
+        "doi: 10.1117/1.NPh.7.4.045004"
     ]
 }
